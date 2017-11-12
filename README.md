@@ -1,1 +1,1 @@
-# Flask Helloworld app for basic tasting training
+# Flask Helloworld app for basic testing training
